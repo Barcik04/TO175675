@@ -1,0 +1,10 @@
+[
+  {"id": "EP-poprawny", "wartosc": "nowy@example.com", "wynik": "OK"},
+  {"id": "EP-poprawny-kropka", "wartosc": "jan.kowalski@firma.pl", "wynik": "OK"},
+  {"id": "EP-bez-malpy", "wartosc": "jan.example.com", "wynik": "BLAD"},
+  {"id": "EP-bez-domeny", "wartosc": "jan@", "wynik": "BLAD"},
+  {"id": "EP-bez-nazwy", "wartosc": "@example.com", "wynik": "BLAD"},
+  {"id": "EP-dwie-malpy", "wartosc": "jan@@example.com", "wynik": "BLAD"},
+  {"id": "EP-spacja", "wartosc": "jan kowalski@example.com", "wynik": "BLAD"},
+  {"id": "EP-pusty", "wartosc": "", "wynik": "BLAD"}
+]

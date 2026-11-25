@@ -1,0 +1,13 @@
+id;wartosc;wynik
+EP-poprawny;30;OK
+EP-ponizej;10;BLAD
+EP-powyzej;120;BLAD
+EP-ulamek;18.5;BLAD
+EP-tekst;abc;BLAD
+EP-pusty;;BLAD
+AWB-17;17;BLAD
+AWB-18;18;OK
+AWB-19;19;OK
+AWB-98;98;OK
+AWB-99;99;OK
+AWB-100;100;BLAD

@@ -1,0 +1,11 @@
+id;wartosc;wynik
+EP-poprawny;csv_poprawny_1;OK
+EP-wielkie-litery;NowyUzytkownik;BLAD
+EP-kropka;csv.user;BLAD
+EP-pusty;;BLAD
+AWB-2;cs;BLAD
+AWB-3;cs3;OK
+AWB-4;csv4;OK
+AWB-19;csv_login_19_znakow;OK
+AWB-20;csv_login_20__znakow;OK
+AWB-21;csv_login_21___znakow;BLAD
